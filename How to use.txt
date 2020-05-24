@@ -1,0 +1,37 @@
+STANDARDISATION PROGRAM FOR THRESHOLD CALCULATION
+---------------------------------------------------------------------------------
+
+
+Here are some instructions  to follow:
+
+1) The .exe file will be in the 'dist' folder. Make sure to make a text file with name 'stdthis' and type in all the data in any order.  After you have typed in all the data, type in the end of file ---->''end'' . MAKE SURE NOT TO LEAVE ANY SPACES OR ELSE PROGRAM MIGHT CRASH.(just to scare you lol)
+
+eg:
+90
+89
+87
+86
+85
+34
+57
+87
+10
+11
+69
+42
+0
+end
+
+2) Now run the .exe file.
+
+3)Your results will be produced in another text file in the dist folder named 'stadardisationresults'. Open it and you will get the results! 
+
+
+Don't worry... there are no keyloggers ,viruses , adware , or any other malicious software in this program.(If you really suspect me, run your antivirus on this program.)
+
+That's all folks!   :)
+
+_Created By Nugith Chandrasekara_
+
+
+
