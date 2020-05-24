@@ -1,0 +1,23 @@
+# Standardisation
+PROJECT-STANDARDISATION
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+This is a program design for standardisation of marks from a batch text file.
+<<<< Also its made using Python. >>>>
+
+REASON WHY I MADE THIS:----->
+A lot of students from school often complain about the difficulty of certain examinations which are off standards resulting in poor grades recieved by students accross the world. This may cause more students to feel dissapointed and often cause them to question their future career or their current courses. This is a BIG problem. This program is specifically using simple statistical calculations to shift the abnormal grade curve into a more universal and ideal grades curve causing the students who actually deserve high gradings to achieve their respective grades. It's a very simple code, and this was inspired due to my school's ridiculously difficult mathematics papers which were WAY off standards.
+
+HOW IT WORKS:------------------>
+It basically reads off all the marks entered into a file named specifically "stdthis.txt". Each line in this notepad document has ONLY 1 mark of a student. The file MUST end with the string value "end". Then it will calculate the mean, standard deviation and variance. Then it will calculate the actual mark for each grade boundry like for an A* in reality is for 90 and above but once you put the marks into the program it will give a different boundry for A*(maybe higher or lower( depends on the overal results of all the marks obtained by students ) ). Finally it will output the results in a different text document named "standardisedresults.txt".
+
+WHY I POSTED THIS ON GITHUB:->
+I created this code and thought that this program might actually help many students to actually search their actual grading( but they will have to research for all the marks obtained by each student, for each subject, from the entire grade. <'gulp'>). Also I was bored and had nothing to do( lol ). I specifically made a github account just to post this and that itself sounds crazy!! You can do whatever with this code and share it to anyone you wish! But if you have made any improvements to the code please feel free to contact me in whatever way possible.
+
+Special thanks to:
+My Brain= For randomly thinking about this and coming up with this crazy idea.
+My Maths Teacher= For making papers bloody hard and teaching me basic statistics.  
+My Computing Teacher= For helping me to learn python. 
+
+
+Thank you.
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
